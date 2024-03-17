@@ -1,1 +1,1 @@
-cmd = bou
+cmd = fre
